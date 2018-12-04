@@ -25,6 +25,12 @@
 </p>
 
 
+# 其他評論
+
+* [同样作为中国大陆人，我为什么坚决反对「蜻蜓」项目](https://github.com/CT-ABT/Also-as-a-mainland-Chinese-why-do-I-resolutely-oppose-Google-s-dragonfly-project)
+* [这个PR只是一条评论](https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on/pull/10/files)
+
+
 下為原文
 <hr>
 
