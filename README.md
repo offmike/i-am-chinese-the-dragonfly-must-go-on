@@ -24,6 +24,10 @@
   <div style='text-align: right;'>來自助紂為虐，指鹿為馬的年代</div>
 </p>
 
+# 延伸閱讀
+
+* [Google CEO Sundar Pichai testifies on Capitol Hill](https://www.youtube.com/watch?v=prdxra7B5H4)
+* [In the Plex: How Google Thinks, Works, and Shapes Our Lives](https://www.youtube.com/watch?v=wbwlxLLRLPQ)
 
 # 其他評論
 
